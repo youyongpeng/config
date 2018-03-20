@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/youyongpeng/config.git
           search-paths: /**
-          username: youyongpeng
+          username: youyongpeng0613@qq.com
           password: YOUyongpeng@0
       label: master
 eureka:
