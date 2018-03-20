@@ -11,4 +11,4 @@ spring:
   cloud:
     config:
       uri: http://localhost:8082
-myname: lishi
+myname: 张三
